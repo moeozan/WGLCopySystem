@@ -788,7 +788,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6821446e353d67d4fb9252b9b6708678, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  origin: https://moeozan.github.io/copyroomexample/
+  origin: 
   playerListPrefab: {fileID: 1007939474608127147, guid: 8987be9607f25864aac20f5363161ce1, type: 3}
   playerListContent: {fileID: 932888890}
   maxPlayers: 4
