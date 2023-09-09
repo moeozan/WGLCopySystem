@@ -8,7 +8,7 @@ Thanks and good luck with your projects...
 
 Ozan VARDAR
 
-To ask any question or to meet ---->>> Discord: Aka Moe#1224
+To ask any question or to meet ---->>> Discord: akamoe
 
 
 Example Project Link:
